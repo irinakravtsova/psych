@@ -1,0 +1,28 @@
+.about {
+
+}
+.about__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about__wrapper {
+  width: calc(50% - 10px);
+}
+.about__text {
+  margin: 21px 0 37px 0;
+}
+.about__wrapper_button {
+  
+padding: 20px 40px;
+
+font-size: 17px;
+
+font-weight: 700;
+line-height: 137.3%; /* 23.341px */
+letter-spacing: 0.34px;
+text-transform: uppercase;
+color: #FFF;
+background-color: #331B3B;
+border-radius: 10px;
+}
